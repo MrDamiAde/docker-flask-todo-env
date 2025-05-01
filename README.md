@@ -1,5 +1,9 @@
 # 📝 Docker To-Do App with .env Config
 
+![Flask](https://img.shields.io/badge/Flask-Python-blue)
+![Docker](https://img.shields.io/badge/Built%20With-Docker-blue)
+![Status](https://img.shields.io/badge/status-working-success)
+
 This is a simple Flask-based To-Do app that uses Docker and a `.env` file to handle configuration like **port numbers** and **database paths** — making it clean, flexible, and more production-ready.
 
 ---
