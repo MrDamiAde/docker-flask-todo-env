@@ -45,6 +45,8 @@ docker-compose up --build
 Then open your browser to:
 http://localhost:5001
 
+![Screenshot 2025-05-01 151856](https://github.com/user-attachments/assets/0727bc10-5eb2-421b-9cda-82cf55094848)
+
 ## 📦 Tech Stack
 
 - Python 3.11
@@ -53,3 +55,4 @@ http://localhost:5001
 - Docker
 - Docker Compose
 - Bootstrap 5
+
